@@ -9,4 +9,5 @@ Vittória Gabriela Borges Costa - 160041830
 
 ## Tema: Efeito Bernoulli
 
-## Objetivo
+## Objetivo: 
+Analisar experimentalmente o comportamento de um fluido afim de deduzir a equação de Bernoulli. 
