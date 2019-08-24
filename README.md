@@ -1,2 +1,12 @@
-# 2019.2 - Efeito Bernoulli
-Grupo do Lab de Dinâmica dos Fluidos. Alunas: Ana Paula Militão, Ana Paula Lopes, Vittória Borges.
+2019.2 - Efeito Bernoulli
+
+# Início 
+
+## Integrantes: 
+Ana Paula Ferreira Militão - 14/0129791
+Ana Paula Lopes Gongalves - 15/0005342
+Vittória Gabriela Borges Costa - 160041830
+
+## Tema: Efeito Bernoulli
+
+## Objetivo
