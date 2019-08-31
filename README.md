@@ -9,10 +9,7 @@
 
 ## 1.2 Tema: Efeito Bernoulli
 
-## 1.3 Objetivo: 
-Analisar experimentalmente o comportamento de um fluido afim de comprovar o Efeito Bernoulli. 
-
-## 1.4 Escopo
+## 1.3 Escopo
   O Efeito de Bernoulli descreve o comportamento de um fluido movendo-se ao longo de uma linha de corrente e traduz para os fluidos o princípio da conservação da energia. Segundo a equação de Bernoulli (Figura 1), enquanto a pressão de um fluido diminuiu, sua velocidade aumenta.
 
 ![Equação de Bernoulli](https://pt-static.z-dn.net/files/dbf/e13b1cfa14c4df93c2b20a6c9b97f493.jpg) 
