@@ -25,3 +25,5 @@ O experimento, então, consiste em construir um Tubo de Venturi, causar o escoam
 
 # Referências
 
+STEWART, W. L. E. B. R. 
+Fenômenos de Transporte , Rio de Janeiro, 2017
