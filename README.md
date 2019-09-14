@@ -27,7 +27,7 @@
    
 Verificar experimentalmente a equação de Bernoulli.
 
-   ## Objetivos específicos:
+   ### Objetivos específicos:
    
 - Realizar um levantamento de informações teóricas básicas que formulam os princípios da equação de Bernoulli. 
 
@@ -57,10 +57,10 @@ Verificar experimentalmente a equação de Bernoulli.
    De acordo com pesquisas realizadas pelo grupo, a fabricação do tubo de Venturi caseiro é simples e requer materiais de baixo custo e de fácil acesso. Podendo até utilizar materiais recicláveis como garrafas PET. Uma vez construído o tubo, a obtenção dos dados no experimento também não requer instrumentos de medição complexos. A interpretação dos dados é simples e possuí uma vasta quantidade de referencial bibliográfico para auxílio dos cálculos e deduções necessários. Dessa forma, concluí-se que o experimento proposto é perfeitamente viável e satisfatório. 
 
 ## Planejamento e Preparação
-  ##Cronograma 
+  ### Cronograma 
    A construção do tubo de venturi e a realização do experimento será realizada em duas etapa. A primeira consiste na escolha, construção e validação da estrutura e a segunda na execução do experimento em questão. A aluna responsável por essas atividades será a Vittória e tais etapas serão efetuadas no dia 18/09 e 20/09, respectivamente.
       
-   ##Medições e Resultados esperados
+   ### Medições e Resultados esperados
   Previamente ao início de qualquer experimento, é primordial saber as especificações e características dos materiais e equipamentos que serão usados. Desta forma, o fluído utilizado no tubo em "U", na parte inferior, é escolhido de forma conveniente, conhecendo sua densidade. No início, suas duas extremidades estão numa mesma altura (ambos submetidos a pressão ambiente). Contudo, alterando o fluxo de ar, nota-se que o fluido passará a apresentar uma diferença de altura, a qual será aferida. Além disso, deve-se medir as áreas A1 e A2 das seções transversais do tubo principal. 
   
   Com esses dados, espera-se comprovar a validade da equação de Bernoulli. Isto é, espera-se que para a área maior, tenha-se uma pressão maior e uma velocidade menor e vice-versa. Comprovando, também, a conservação da energia no sistema.
