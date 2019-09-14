@@ -12,9 +12,8 @@
    O Efeito de Bernoulli descreve o comportamento de um fluido movendo-se ao longo de uma linha de corrente e traduz para os fluidos o princípio da conservação da energia. Segundo a equação de Bernoulli (Figura 1), enquanto a pressão de um fluido diminuiu, sua velocidade aumenta.
  
 ![Equação de Bernoulli](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%201.gif)
+#### Equação 1
 
-
-*Figura 1*
 
    Com uso dessa relação, foi desenvolvido o Tubo de Venturi (Figura 2), um aparato que apresenta seções de áreas variadas para medir a velocidade e vazão de um fluido. E justamente através desse aparato que é possível verificar o efeito de Bernoulli, analisando o escoamento de um fluído através de um tubo de Venturi. Conhecendo a geometria do tubo, e a pressão inicial e final, é possível determinar a velocidade inicial e/ou final do escoamento.
 
