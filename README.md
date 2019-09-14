@@ -13,9 +13,7 @@
 
    O Efeito de Bernoulli descreve o comportamento de um fluido movendo-se ao longo de uma linha de corrente e traduz para os fluidos o princípio da conservação da energia. Segundo a equação de Bernoulli (Figura 1), enquanto a pressão de um fluido diminuiu, sua velocidade aumenta.
  
-![Equação de Bernoulli](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%201.gif)
-
-**Equação 1**
+![Equação de Bernoulli](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%201.gif)**(Equação 1)**
 
 
    Com uso dessa relação, foi desenvolvido o Tubo de Venturi (Figura 2), um aparato que apresenta seções de áreas variadas para medir a velocidade e vazão de um fluido. E justamente através desse aparato que é possível verificar o efeito de Bernoulli, analisando o escoamento de um fluído através de um tubo de Venturi. Conhecendo a geometria do tubo, e a pressão inicial e final, é possível determinar a velocidade inicial e/ou final do escoamento.
@@ -72,52 +70,39 @@ Verificar experimentalmente a equação de Bernoulli.
    
    Considera-se um elemento do fluido que esrava inicialmente entre duas seções retas _a_ e _c_. Durante um pequeno intervalo de rempo _dt_, o fluido em _a_ se desloca para _b_ percorrendo uma distância _ds_. Adotando a hipótese de fluido incompressível, a equação da continuidade determina que o volume _dV_ do fluido é constante em qualquer seção reta do tubo.
    
-   ![Equação 2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%202.gif) 
-
-**Equação 2**
+   ![Equação 2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%202.gif)**(Equação 2)**
 
 
    O trabalho total _dW_ realizado pelo fluido nas vizinhanças sobre o elemento de fluido durante este deslocamento é:
    
-   ![Equação 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%203.gif)
-   
- **Equação 3**
+   ![Equação 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%203.gif)**(Equação 3)**
  
  
    O segundo termo possui sinal negativo porque a força sobre _c_ se opõe ao deslocamento do fluido.
    O trabalho _dW_ é realizado por outras forças, além da força conservativa da gravidade, de modo que ele é igual à variação da energia mecânica do sistema, associada ao elemento do fluido.
    A energia mecânica para os trchos _b_ e _c_ não varia, portanto, a energia cinética durante _dt_ é: 
 
-   ![Equação 4](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%204.gif)
-   
- **Equação 4**
+   ![Equação 4](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%204.gif)**(Equação 4])**
  
  
    Para a energia gravitacional, a variação total da energia potencial _dU_ durante _dt_ é:
    
-   ![Equação 5](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%205.gif)
-   
- **Equação 5**
+   ![Equação 5](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%205.gif)**(Equação 5)**
  
  
    Como, 
      
-   ![Equação 6](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%206.gif)
-   
- **Equação 6**
+   ![Equação 6](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%206.gif)**(Equação 6)**
  
  
 a variação da energia mecânica fica:
   
-   ![Equação 7](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%207.gif)
-   
- **Equação 7**
+   ![Equação 7](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%207.gif)**(Equação 7)**
+
 
 que simplificando se torna:
   
-   ![Equação 8](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%208.gif)
-   
- **Equação 8: _Equação de Bernoulli_**
+   ![Equação 8](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%208.gif)**(Equação 8) _Equação de Bernoulli_**
  
  
  
