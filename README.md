@@ -62,10 +62,11 @@ Verificar experimentalmente a equação de Bernoulli.
       
    ## Medições e Resultados esperados
   Previamente ao início de qualquer experimento, é primordial saber as especificações e características dos materiais e equipamentos que serão usados. Desta forma, o fluído utilizado no tubo em "U", na parte inferior, é escolhido de forma conveniente, conhecendo sua densidade. No início, suas duas extremidades estão numa mesma altura (ambos submetidos a pressão ambiente). Contudo, alterando o fluxo de ar, nota-se que o fluido passará a apresentar uma diferença de altura, a qual será aferida. Além disso, deve-se medir as áreas A1 e A2 das seções transversais do tubo principal. 
+  
   Com esses dados, espera-se comprovar a validade da equação de Bernoulli. Isto é, espera-se que para a área maior, tenha-se uma pressão maior e uma velocidade menor e vice-versa. Comprovando, também, a conservação da energia no sistema.
     
    
-   ### Referencial Teórico
+ ## Referencial Teórico
    A Equação de Bernoulli traduz o princípio de conservação de energia numa mesma linha de corrente num escoamento suposto estacionário, com volume constante, invíscido, sujeito adicionalmente a forças de campo (gravidade). 
    A principal aproximação na dedução da equação de Bernoulli é que os efeitos viscosos são desprezivelmente pequenos quando comparados aos efeitos da inércia, da gravidade e da pressão. Como todos os fluidos têm viscosidade (não existe um “fluido não viscoso”), essa aproximação não é válida para o todo de um campo de escoamento de interesse prático. Apesar de sua simplicidade e suas restrições, esta provou ser uma ferramenta muito poderosa na mecânica de fluidos. 
    
