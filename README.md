@@ -18,6 +18,7 @@
    Com uso dessa relação, foi desenvolvido o Tubo de Venturi (Figura 2), um aparato que apresenta seções de áreas variadas para medir a velocidade e vazão de um fluido. E justamente através desse aparato que é possível verificar o efeito de Bernoulli, analisando o escoamento de um fluído através de um tubo de Venturi. Conhecendo a geometria do tubo, e a pressão inicial e final, é possível determinar a velocidade inicial e/ou final do escoamento.
 
 ![Tubo de Venturi](http://1.bp.blogspot.com/-lchp2UI4fHo/VSl2spb5SDI/AAAAAAAAC04/arjO0FR3PKw/s1600/Capturar1F.PNG)
+#### Figura 1
 
 ## OBJETIVOS
    ### Objetivo geral:
