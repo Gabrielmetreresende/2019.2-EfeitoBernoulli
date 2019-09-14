@@ -105,7 +105,16 @@ que simplificando se torna:
    ![Equação 8](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%208.gif)**(Equação 8) _Equação de Bernoulli_**
  
  
- 
+   O significado físico deste Princípio será demonstrado de forma simples neste experimento. Como no tubo de Venturi o volume do fluido ao longo do tubo não varia com o tempo, logo percebe-se que a vazão do flúido é constante, e considerando também como desprezível os efeitos viscosos na parede do tubo e o escoamento como incompressível (devido à sua baixa velocidade) e irrotacional (devido ao seu fluxo laminar), pode-se aplicar a equação de Bernoulli para determinar a velocidade e a vazão do fluído em diferentes áreas do tubo. 
+   
+   ### Procedimentos Experimentais
+   
+   ### Cronograma
+   
+   ### Dados a serem medidos e/ou coletados
+   
+   ### Resultados Esperados
+   
 ## Referências
 
 STEWART, W. L. E. B. R. 
