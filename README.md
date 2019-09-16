@@ -68,7 +68,7 @@ O Efeito Bernoulli pode ser observado em diversas situações bastante simples, 
   ## Cronograma 
   Elaborou-se um cronograma de atividades de acordo com as exigências da disciplina.
   
-  ![Cronograma](https://www.dropbox.com/s/y5xetirtqzqubfa/Cronograma%20Experimento%20Bernoulli-1.jpg?dl=0)
+  ![Cronograma](Cronograma Experimento Bernoulli-1.jpg)
 
 **Figura 2:** Cronograma de atividades do grupo para a disciplina. 
   
