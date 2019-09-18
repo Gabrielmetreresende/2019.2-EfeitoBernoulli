@@ -65,7 +65,57 @@ O Efeito Bernoulli pode ser observado em diversas situações bastante simples, 
 
 
 # Planejamento e Preparação
-  ## Cronograma 
+
+ ## Teoria do Experimento
+   A Equação de Bernoulli traduz o princípio de conservação de energia numa mesma linha de corrente num escoamento suposto estacionário, com volume constante, invíscido, sujeito adicionalmente a forças de campo (gravidade). 
+   A principal aproximação na dedução da equação de Bernoulli é que os efeitos viscosos são desprezivelmente pequenos quando comparados aos efeitos da inércia, da gravidade e da pressão. Como todos os fluidos têm viscosidade (não existe um “fluido não viscoso”), essa aproximação não é válida para o todo de um campo de escoamento de interesse prático. Apesar de sua simplicidade e suas restrições, esta provou ser uma ferramenta muito poderosa na mecânica de fluidos. 
+   Para deduzir a equação de Bernoulli aplica-se o teorema trabalho-energia ao fluido em uma seção de um tubo de escoamento como indica a Figura 2. 
+
+![Fluido escoando em um tubo](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Escoamento%20do%20flu%C3%ADdo.jpeg)
+
+**Figura 2:** Representação do fluido em um tubo de escoamento.
+
+
+   Considera-se um elemento do fluido que esrava inicialmente entre duas seções retas _a_ e _c_. Durante um pequeno intervalo de rempo _dt_, o fluido em _a_ se desloca para _b_ percorrendo uma distância _ds_. Adotando a hipótese de fluido incompressível, a equação da continuidade determina que o volume _dV_ do fluido é constante em qualquer seção reta do tubo.
+
+   ![Equação 2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%202.gif)**(Equação 2)**
+
+
+   O trabalho total _dW_ realizado pelo fluido nas vizinhanças sobre o elemento de fluido durante este deslocamento é:
+
+   ![Equação 3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%203.gif)**(Equação 3)**
+
+
+   O segundo termo possui sinal negativo porque a força sobre _c_ se opõe ao deslocamento do fluido.
+   O trabalho _dW_ é realizado por outras forças, além da força conservativa da gravidade, de modo que ele é igual à variação da energia mecânica do sistema, associada ao elemento do fluido.
+   A energia mecânica para os trchos _b_ e _c_ não varia, portanto, a energia cinética durante _dt_ é: 
+
+   ![Equação 4](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%204.gif)**(Equação 4])**
+
+
+   Para a energia gravitacional, a variação total da energia potencial _dU_ durante _dt_ é:
+
+   ![Equação 5](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%205.gif)**(Equação 5)**
+
+
+   Como, 
+
+   ![Equação 6](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%206.gif)**(Equação 6)**
+
+
+a variação da energia mecânica fica:
+
+   ![Equação 7](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%207.gif)**(Equação 7)**
+
+
+que simplificando se torna:
+
+   ![Equação 8](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Equa%C3%A7%C3%A3o%208.gif)**(Equação 8) _Equação de Bernoulli_**
+
+
+   O significado físico deste Princípio será demonstrado de forma simples neste experimento. Como no tubo de Venturi o volume do fluido ao longo do tubo não varia com o tempo, logo percebe-se que a vazão do flúido é constante, e considerando também como desprezível os efeitos viscosos na parede do tubo e o escoamento como incompressível (devido à sua baixa velocidade) e irrotacional (devido ao seu fluxo laminar), pode-se aplicar a equação de Bernoulli para determinar a velocidade e a vazão do fluído em diferentes áreas do tubo. 
+
+## Cronograma 
   Elaborou-se um cronograma de atividades de acordo com as exigências da disciplina.
   
   ![Cronograma](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/Cronograma%20Experimento%20Bernoulli-1.jpg)
@@ -80,10 +130,7 @@ O Efeito Bernoulli pode ser observado em diversas situações bastante simples, 
   Com esses dados, espera-se comprovar a validade da equação de Bernoulli. Isto é, espera-se que para a área maior, tenha-se uma pressão maior e uma velocidade menor e vice-versa. Comprovando, também, a conservação da energia no sistema.
     
    
- # Referencial Teórico
-   A Equação de Bernoulli traduz o princípio de conservação de energia numa mesma linha de corrente num escoamento suposto estacionário, com volume constante, invíscido, sujeito adicionalmente a forças de campo (gravidade). 
-   A principal aproximação na dedução da equação de Bernoulli é que os efeitos viscosos são desprezivelmente pequenos quando comparados aos efeitos da inércia, da gravidade e da pressão. Como todos os fluidos têm viscosidade (não existe um “fluido não viscoso”), essa aproximação não é válida para o todo de um campo de escoamento de interesse prático. Apesar de sua simplicidade e suas restrições, esta provou ser uma ferramenta muito poderosa na mecânica de fluidos. 
-   
+
 
    
 ## Referências
