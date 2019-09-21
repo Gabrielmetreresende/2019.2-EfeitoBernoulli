@@ -131,7 +131,7 @@ que simplificando se torna:
     
   ## Execução 
 
-![Execução] (https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/WhatsApp%20Image%202019-09-20%20at%2016.46.23.jpeg)
+![Equacao9] (https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/WhatsApp%20Image%202019-09-20%20at%2016.46.23.jpeg)
 
    
 ## Referências
