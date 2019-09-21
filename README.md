@@ -129,8 +129,9 @@ que simplificando se torna:
   
   Com esses dados, espera-se comprovar a validade da equação de Bernoulli. Isto é, espera-se que para a área maior, tenha-se uma pressão maior e uma velocidade menor e vice-versa. Comprovando, também, a conservação da energia no sistema.
     
-   
+  ## Execução 
 
+![Execução] (https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/WhatsApp%20Image%202019-09-20%20at%2016.46.23.jpeg)
 
    
 ## Referências
