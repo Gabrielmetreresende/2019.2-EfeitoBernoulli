@@ -138,11 +138,11 @@ que simplificando se torna:
 **Figura 4:** Validação da estrutura 
 
 ![Execucao4](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/WhatsApp%20Image%202019-09-21%20at%2020.44.32.jpeg)
-
+**Figura 5:** Execução experimento
 ![Execucao5](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/WhatsApp%20Image%202019-09-21%20at%2020.44.33%20(1).jpeg)
-**Figura 4:** Execução experimento
 
 ![Execucao3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/WhatsApp%20Image%202019-09-20%20at%2016.46.25%20(1).jpeg)
+**Figura 5:** Medição da diferenca
 
    
 ## Referências
