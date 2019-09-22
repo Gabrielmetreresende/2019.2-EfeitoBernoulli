@@ -130,14 +130,17 @@ que simplificando se torna:
   Com esses dados, espera-se comprovar a validade da equação de Bernoulli. Isto é, espera-se que para a área maior, tenha-se uma pressão maior e uma velocidade menor e vice-versa. Comprovando, também, a conservação da energia no sistema.
     
   ## Execução 
-
+  
 ![Execucao1](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/WhatsApp%20Image%202019-09-20%20at%2016.46.22.jpeg)
+**Figura 3:** Esquemático montado do tudo de venturi 
 
 ![Execucao2](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/WhatsApp%20Image%202019-09-20%20at%2016.46.24.jpeg)
+**Figura 4:** Validação da estrutura 
 
 ![Execucao4](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/WhatsApp%20Image%202019-09-21%20at%2020.44.32.jpeg)
 
 ![Execucao5](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/WhatsApp%20Image%202019-09-21%20at%2020.44.33%20(1).jpeg)
+**Figura 4:** Execução experimento
 
 ![Execucao3](https://github.com/laboratorio-de-dinamica-dos-fluidos/2019.2-EfeitoBernoulli/blob/master/WhatsApp%20Image%202019-09-20%20at%2016.46.25%20(1).jpeg)
 
